@@ -1,0 +1,1 @@
+connectionString="server = localhost; database = sdtestdb; uid = BenjaminAlmazan; password = ilovebenilde"

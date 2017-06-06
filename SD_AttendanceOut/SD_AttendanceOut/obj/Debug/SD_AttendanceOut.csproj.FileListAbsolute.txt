@@ -1,0 +1,24 @@
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\SD_AttendanceOut.exe.config
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\SD_AttendanceOut.exe
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\SD_AttendanceOut.pdb
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.AttendanceOut.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.AttendanceOutUserControl.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.Properties.Resources.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.csproj.GenerateResource.Cache
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.exe
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.pdb
+C:\Users\alyss_000\Documents\Visual Studio 2013\Projects\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.csprojResolveAssemblyReference.cache
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\SD_AttendanceOut.exe.config
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.exe
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.pdb
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\SD_AttendanceOut.exe
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\SD_AttendanceOut.pdb
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.csprojResolveAssemblyReference.cache
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.AttendanceOut.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.AttendanceOutUserControl.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.Properties.Resources.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceOut\SD_AttendanceOut\obj\Debug\SD_AttendanceOut.csproj.GenerateResource.Cache

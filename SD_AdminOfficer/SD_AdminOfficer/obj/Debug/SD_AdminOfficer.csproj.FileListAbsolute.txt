@@ -1,0 +1,38 @@
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\SD_AdminOfficer.exe.config
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\SD_AdminOfficer.exe
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\SD_AdminOfficer.pdb
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.csprojResolveAssemblyReference.cache
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Properties.Resources.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.csproj.GenerateResource.Cache
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.exe
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.pdb
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Enrolment.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Enrolment2.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Enrolment2UserControl.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockInUserControl.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Home.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockIn.resources
+C:\Users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockOut.resources
+C:\Users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockOutUserControl.resources
+C:\Users\alyss_000\documents\visual studio 2013\Projects\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Login.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\SD_AdminOfficer.exe.config
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.exe
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.pdb
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\SD_AdminOfficer.exe
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\SD_AdminOfficer.pdb
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.csprojResolveAssemblyReference.cache
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockInUserControl.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockOut.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockOutUserControl.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Enrolment.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Enrolment2.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Enrolment2UserControl.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Home.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Login.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.Properties.Resources.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.ClockIn.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AdminOfficer\SD_AdminOfficer\obj\Debug\SD_AdminOfficer.csproj.GenerateResource.Cache

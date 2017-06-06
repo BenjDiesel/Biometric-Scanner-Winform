@@ -1,0 +1,24 @@
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\SD_AttendanceIn.exe.config
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.AttendanceIn.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.AttendanceInUserControl.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.Properties.Resources.resources
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.csproj.GenerateResource.Cache
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\SD_AttendanceIn.exe
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\SD_AttendanceIn.pdb
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.exe
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.pdb
+c:\users\alyss_000\documents\visual studio 2013\Projects\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.csprojResolveAssemblyReference.cache
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\SD_AttendanceIn.exe.config
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.exe
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.pdb
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\SD_AttendanceIn.exe
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\SD_AttendanceIn.pdb
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.csprojResolveAssemblyReference.cache
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.AttendanceIn.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.AttendanceInUserControl.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.Properties.Resources.resources
+C:\Users\BenjaminAlmazan\Desktop\BIOMETRICWORK\SD_AttendanceIn\SD_AttendanceIn\obj\Debug\SD_AttendanceIn.csproj.GenerateResource.Cache
